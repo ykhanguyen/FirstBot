@@ -1,6 +1,6 @@
 {
     "appSecret": "3e90f9505a2f8c90c8347716c9c431a6",
-    "pageAccessToken": "EAAChVTaLKVcBAIZBRhmVLSLVEZCXM2sBXrtwE5ZCZBeK9VatdwezduMZCNfEi3lZCcafIaB6V3LKT2n8QvkLcshoQ7SMndIZAZCrT9rDMUUzkKpFg6Yqo4GNqZCdeWMpPDjIoy9kMkhgjCKNMStxoIgdUGY73SxXEgCM3bBylCdMMOgZDZD",
+    "pageAccessToken": "EAAChVTaLKVcBAPQIExfb7aLKiqE7dfJjg7jXKZBxAKKtO7hdbrPyJ1AzPebtCxBLpgCSWjGLZA8wt0XqOHNj6cZAWxwN1s3BgF2qXo8CEha0XrIloDEf66EJhEzS1FELltyRuLClquWmx2iZA6JgZC85cZB1TX3XofRkhFm2OSyAZDZD",
     "validationToken": "webhookblablabla",
     "serverURL": "localhost:5000"
 }
